@@ -56,6 +56,7 @@ gem "awesome_print"
 group :development do
   # Access an IRB console on exceptions page and /console in development
   gem "web-console"
+  gem "listen"
 end
 
 group :development, :test do
